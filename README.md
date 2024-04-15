@@ -1,5 +1,5 @@
 # Residual Networks (ResNet)
-A Residual Networks (ResNet) implementation for image classification
+A pytorch Residual Networks (ResNet) implementation for image classification
 
 Dataset: CIFAR-10 
 
