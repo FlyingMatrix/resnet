@@ -1,4 +1,4 @@
-# Residual Networks (ResNet) for Image Classification
+# Residual Networks (ResNet)
 A Residual Networks (ResNet) implementation for image classification
 
 Dataset: CIFAR-10 
