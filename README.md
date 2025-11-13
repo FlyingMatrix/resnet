@@ -1,4 +1,4 @@
-# Residual Network (ResNet)
+# ResNet
 A pytorch Residual Network (ResNet) implementation for image classification
 
 Dataset: CIFAR-10 
